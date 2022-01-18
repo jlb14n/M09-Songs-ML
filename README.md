@@ -1,8 +1,8 @@
 # M09-Songs-ML
-M09 Exercise Data Processing and Model Training
 
-This repository includes the Jupyter Notebook for M09: Exercise: Data Processing
-This cleans a dataset of songs for the later machine learning exercise
+## Introduction
+This repository was created for the M09 Exercises: Data Processing and Model Training. This cleans a dataset of songs and separates out a training group and a test group.
 
-Exercise: Model Training has not yet been attempted!
+## Navigation
+Data-Processing-Model-Training.ipynb is the Jupyter notebook that cleans and creates datasets. ml-03-data-processing-songs-dataset.csv is the uncleaned data.
 
